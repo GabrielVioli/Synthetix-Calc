@@ -29,7 +29,7 @@ class ServiceExpressionIA
                     ],
                     [
                         'role' => 'user',
-                        'content' => "resolva esta expressão matematica: {$expression}"
+                        'content' => "resolva esta expressão matematica de forma resumida: {$expression}"
                     ]
                 ],
                 'temperature' => 0,
