@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calculadora IA Avançada</title>
     <link rel="stylesheet" href="{{ asset('css/calculator.css') }}">
+    <link rel="icon" type="image/png" href=" {{ asset('icons/calcular.png') }}">
+
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 
     <script>
